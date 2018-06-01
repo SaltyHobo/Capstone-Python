@@ -6,6 +6,9 @@ Taught by Associate Professor Charles Severance.
 * Python for Everybody, a 5-course specialization by University of Michigan on Coursera. 
     Specialization Certificate earned on May 27, 2018, License 55MU7WFUBDMA.
 
+
+Specialization comprised of: 
+
 * Capstone: Retrieving, Processing, and Visualizing Data with Python by University of Michigan on Coursera. 
     Certificate earned on May 28, 2018, License XPPK3Q7XEJM4.
     
